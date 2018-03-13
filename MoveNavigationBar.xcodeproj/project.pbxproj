@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9526EDC82057C8CC00C994DA /* cameraCVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9526EDC72057C8CC00C994DA /* cameraCVC.swift */; };
 		955B819F2057951300BF28AE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 955B819E2057951300BF28AE /* AppDelegate.swift */; };
 		955B81A12057951300BF28AE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 955B81A02057951300BF28AE /* ViewController.swift */; };
 		955B81A42057951300BF28AE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 955B81A22057951300BF28AE /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9526EDC72057C8CC00C994DA /* cameraCVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cameraCVC.swift; sourceTree = "<group>"; };
 		955B819B2057951300BF28AE /* MoveNavigationBar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MoveNavigationBar.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		955B819E2057951300BF28AE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		955B81A02057951300BF28AE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			children = (
 				955B819E2057951300BF28AE /* AppDelegate.swift */,
 				955B81A02057951300BF28AE /* ViewController.swift */,
+				9526EDC72057C8CC00C994DA /* cameraCVC.swift */,
 				955B81A22057951300BF28AE /* Main.storyboard */,
 				955B81A52057951300BF28AE /* Assets.xcassets */,
 				955B81A72057951300BF28AE /* LaunchScreen.storyboard */,
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9526EDC82057C8CC00C994DA /* cameraCVC.swift in Sources */,
 				955B81A12057951300BF28AE /* ViewController.swift in Sources */,
 				955B819F2057951300BF28AE /* AppDelegate.swift in Sources */,
 			);
